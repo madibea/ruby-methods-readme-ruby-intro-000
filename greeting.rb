@@ -3,3 +3,4 @@ def greeting
 end
 
 greeting
+$ ruby greeting.#!/usr/bin/env ruby -wKU
